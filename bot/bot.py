@@ -1,4 +1,3 @@
-# bot/bot.py
 
 import logging
 import random
